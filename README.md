@@ -17,7 +17,7 @@ version: "3.8"
 services:
   tinyproxy:
     container_name: tinyproxy
-    image: cpfriend1721994/tinyproxy:1.11.1
+    image: tunnm/tinyproxy:1.11.1
     ports:
       - "8888:8888"
     volumes:
