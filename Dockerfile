@@ -1,4 +1,4 @@
-FROM alpine:3.13.12
+FROM alpine:20220715
 MAINTAINER github.com/cpfriend1721994
 
 RUN set -xe \
